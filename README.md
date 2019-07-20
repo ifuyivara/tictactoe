@@ -1,2 +1,2 @@
 # tictactoe
-Single player Tic Tac Toe in GoLang
+Single player Tic Tac Toe in C#
